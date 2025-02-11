@@ -27,13 +27,13 @@ def opencase(q):
                 rar=0
             elif rar<=399:
                 rar=1
-            elif rar<=449:
+            elif rar<=459:
                 rar=2
-            elif rar<=479:
+            elif rar<=484:
                 rar=3
-            elif rar<=493:
+            elif rar<=494:
                 rar=4
-            elif rar<=498:
+            elif rar<=499:
                 rar=5
             else:
                 rar=6
