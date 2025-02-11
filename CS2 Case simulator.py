@@ -124,7 +124,7 @@ def Revolution(q):
                 rar=1
             elif rar<=489:
                 rar=2
-            elif rar<=499:
+            elif rar<=498:
                 rar=3
             else:
                 rar=4
@@ -139,7 +139,7 @@ def Revolution(q):
         rar=1
     elif rar<=489:
         rar=2
-    elif rar<=499:
+    elif rar<=498:
         rar=3
     else:
         rar=4
