@@ -167,6 +167,7 @@ while True:
         print('Dragon Lore case(original case) - "dlore"')
         print('Revolution case - "rev"')
         inp = input()
+        os.system('cls')
         if inp == 'sim':
             chosen = 'Simulator case'
         elif inp == 'dlore':
@@ -175,7 +176,6 @@ while True:
             chosen = 'Revolution case'
         else:
             print('This is not an available option.')
-        os.system('cls')
     else:
         if chosen == 'Simulator case':
             opencase(inp)
